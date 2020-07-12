@@ -5,7 +5,8 @@
 tragt euch gerne ins [Gästebuch](https://github.com/chk1/chk1/issues) ein
 
 ![iexplorer](https://user-images.githubusercontent.com/828496/87237796-a07cdf80-c3fa-11ea-9e8f-1b6e1ae8aacc.gif)
-![explorer_globe](https://user-images.githubusercontent.com/828496/87237794-9d81ef00-c3fa-11ea-8c82-a8339ea85e76.gif)
+
+<p dir='rtl' align='right'><img src="https://user-images.githubusercontent.com/828496/87237848-606a2c80-c3fb-11ea-8bb7-f6d05f637cca.gif"></p>
 
 <!--
 **chk1/chk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
