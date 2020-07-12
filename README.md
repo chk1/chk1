@@ -1,4 +1,11 @@
-### Hi there 👋
+### Willkommen auf meiner Internetseite
+
+tragt euch gerne ins [Gästebuch](https://github.com/chk1/chk1/issues) ein
+
+![](iexplorer.gif)
+![](explorer_globe.gif)
+![](ani-construction.gif)
+
 
 <!--
 **chk1/chk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
