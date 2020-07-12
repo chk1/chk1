@@ -1,10 +1,11 @@
 ### Willkommen auf meiner Internetseite
 
+![](ani-construction.gif)
+
 tragt euch gerne ins [Gästebuch](https://github.com/chk1/chk1/issues) ein
 
 ![](iexplorer.gif)
 ![](explorer_globe.gif)
-![](ani-construction.gif)
 
 
 <!--
